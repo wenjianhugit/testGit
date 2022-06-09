@@ -1,5 +1,5 @@
 Wesley is testing 2
-Add a new line
 Wesley added a new line at 12:20pm
 Wesley added a new line
 Wesley added a new line in newBranch at 12:29pm
+Wesley added a new line in newBranch2 at 4:30pm
